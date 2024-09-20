@@ -53,7 +53,7 @@ export default function Home() {
          <a
             target="blank"
             className="font-extrabold px-2 py-2 text-white backdrop-blur-sm border border-white rounded-full hover:shadow-[0px_0px_4px_4px_rgba(0,0,0,0.1)] text-sm transition duration-200"
-            href="https://drive.google.com/file/d/1BTkOVs5HVx6qeMF-wDpFmsrrbkSktyyj/view?pli=1"
+            href="https://drive.google.com/file/d/12QwbMAnv6KR4m8z-Nsaw5nbt-1VfNKL8/view?usp=sharing"
           >
             <Cover className="text-white text-lg">&lt;View Resume&#47;&gt;</Cover>
           </a>
