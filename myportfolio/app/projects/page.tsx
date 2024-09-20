@@ -1,4 +1,5 @@
 import { GithubIcon } from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 
 export default function projects() {
@@ -8,7 +9,7 @@ export default function projects() {
         <a href="https://venuly.vercel.app/" target="blank">
           <div className="relative flex flex-col  bg-black shadow-sm border border-black rounded-lg hover:scale-110 transition ease-in-out duration-500 w-96">
             <div className="relative h-48 m-2.5 overflow-hidden text-white rounded-md">
-              <img src="/myportfolio/venuly.png" alt="card-image" />
+              <Image width={500} height={500} src="/myportfolio/venuly.png" alt="card-image" />
             </div>
             <div className="p-4">
               <div className="grid grid-cols-4">
@@ -36,7 +37,7 @@ export default function projects() {
               </h6>
               <p className="text-white leading-normal font-light">
                 Venuly is your ultimate destination for effortless venue
-                booking. Whether you're planning an intimate gathering, a grand
+                booking. Whether you&apos;re planning an intimate gathering, a grand
                 wedding, or a corporate event, Venuly simplifies the process of
                 finding and reserving the perfect venue. Our user-friendly
                 platform offers a curated selection of venues tailored to suit
@@ -64,7 +65,7 @@ export default function projects() {
         <a href="https://currencyconverter-abhishek.vercel.app/" target="blank">
           <div className="relative flex flex-col  bg-black shadow-sm border border-black rounded-lg hover:scale-110 transition ease-in-out duration-500 w-96">
             <div className="relative h-48 m-2.5 overflow-hidden text-white rounded-md">
-              <img src="/myportfolio/currency.png" alt="card-image" />
+              <Image height={500} width={500} src="/myportfolio/currency.png" alt="card-image" />
             </div>
             <div className="p-4">
               <div className="flex justify-between">
@@ -86,7 +87,7 @@ export default function projects() {
               </h6>
               <p className="text-white leading-normal font-light">
                 Currency Converter is your go-to tool for seamless and accurate
-                currency conversions. Whether you're traveling abroad, managing
+                currency conversions. Whether you&apos;re traveling abroad, managing
                 international transactions, or simply curious about exchange
                 rates, Currency ConvertPro delivers reliable and up-to-date
                 information with ease.

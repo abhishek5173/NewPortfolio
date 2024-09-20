@@ -9,8 +9,8 @@ export default function about() {
         </Cover>
         <div className="w-5/6">
           <p className="text-white">
-            Hello! I'm Abhishek Kumar, a passionate,dedicated and budding
-            software developer excited to dive into the world of tech. I'm new
+            Hello! I&apos;m Abhishek Kumar, a passionate,dedicated and budding
+            software developer excited to dive into the world of tech. I&apos;m new
             to the industry but have been passionately learning and working with
             Frontend/Backend.
           </p>
