@@ -9,7 +9,7 @@ export default function skills() {
               fill="currentColor"
               stroke-width="0"
               viewBox="0 0 24 24"
-              className=" text-yellow-500   w-16 h-16 
+              className=" text-yellow-500   w-14 h-14 
             sm:w-24 sm:h-24 
             md:w-32 md:h-32 
             lg:w-40 lg:h-40  
@@ -28,7 +28,7 @@ export default function skills() {
               fill="currentColor"
               stroke-width="0"
               viewBox="0 0 512 512"
-              className=" text-sky-500  w-16 h-16 
+              className=" text-sky-500  w-14 h-14 
             sm:w-24 sm:h-24 
             md:w-32 md:h-32 
             lg:w-40 lg:h-40  
@@ -47,7 +47,7 @@ export default function skills() {
                 width="85px"
                 height="85px"
                 viewBox="0 0 256 256"
-                className=" w-16 h-16 
+                className=" w-14 h-14 
             sm:w-24 sm:h-24 
             md:w-32 md:h-32 
             lg:w-40 lg:h-40  
@@ -70,7 +70,7 @@ export default function skills() {
               fill="currentColor"
               stroke-width="0"
               viewBox="0 0 384 512"
-              className=" text-orange-500  w-16 h-16 
+              className=" text-orange-500  w-14 h-14 
             sm:w-24 sm:h-24 
             md:w-32 md:h-32 
             lg:w-40 lg:h-40  
@@ -89,7 +89,7 @@ export default function skills() {
               fill="currentColor"
               stroke-width="0"
               viewBox="0 0 512 512"
-              className=" text-blue-500  w-16 h-16 
+              className=" text-blue-500  w-14 h-14 
             sm:w-24 sm:h-24 
             md:w-32 md:h-32 
             lg:w-40 lg:h-40  
@@ -111,7 +111,7 @@ export default function skills() {
                 fill="currentColor"
                 stroke-width="0"
                 viewBox="0 0 448 512"
-                className=" text-green-500  w-16 h-16 
+                className=" text-green-500  w-14 h-14 
             sm:w-24 sm:h-24 
             md:w-32 md:h-32 
             lg:w-40 lg:h-40  
@@ -131,7 +131,7 @@ export default function skills() {
                 stroke-width="0"
                 role="img"
                 viewBox="0 0 24 24"
-                className=" text-green-500  w-16 h-16 
+                className=" text-green-500  w-14 h-14 
             sm:w-24 sm:h-24 
             md:w-32 md:h-32 
             lg:w-40 lg:h-40  
@@ -150,7 +150,7 @@ export default function skills() {
                   fill="#ffffff"
                   width="90px"
                   height="90px"
-                  className=" w-16 h-16 
+                  className=" w-14 h-14 
             sm:w-24 sm:h-24 
             md:w-32 md:h-32 
             lg:w-40 lg:h-40  
@@ -171,7 +171,7 @@ export default function skills() {
                 stroke-width="0"
                 role="img"
                 viewBox="0 0 24 24"
-                className=" text-cyan-500  w-16 h-16 
+                className=" text-cyan-500  w-14 h-14 
             sm:w-24 sm:h-24 
             md:w-32 md:h-32 
             lg:w-40 lg:h-40  
