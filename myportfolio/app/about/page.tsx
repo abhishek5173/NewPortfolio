@@ -2,8 +2,8 @@ import { Cover } from "@/components/ui/cover";
 
 export default function about() {
   return (
-    <div className="bg-black w-screen h-[calc(100vh-4rem)]">
-      <div className="lg:pt-60 pt-40 pl-10 md:text-3xl text-lg font-thin">
+    <div className="bg-black w-screen h-[calc(100vh-4rem)] overflow-auto">
+      <div className="lg:pt-52 pt-40 pl-10 md:text-3xl text-lg font-thin">
         <Cover className="text-white font-extrabold text-5xl lg:text-6xl font-mono">
           About Me
         </Cover>
