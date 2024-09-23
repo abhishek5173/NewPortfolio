@@ -1,6 +1,6 @@
 export default function skills() {
   return (
-    <div className="bg-black w-screen h-[calc(100vh-4rem)] text-white">
+    <div className="bg-black w-screen h-[calc(100vh-4rem)] text-white overflow-auto">
       <div className="w-full h-[calc(100vh-4rem)] flex flex-col justify-center items-center gap-y-5 ">
         <div className="flex gap-7 animate-bounce ">
           <section className="flex justify-center items-center flex-col">
