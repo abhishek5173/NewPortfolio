@@ -8,8 +8,8 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="bg-black w-screen h-[calc(100vh-4rem)]">
-      <div className="px-6 sm:px-20 pt-64 lg:pt-60 text-white lg:text-8xl text-4xl sm:text-5xl">
+    <div className="bg-black w-screen h-[calc(100vh-4rem)] overflow-auto">
+      <div className="px-6 sm:px-20 pt-64 lg:pt-52 text-white lg:text-8xl text-4xl sm:text-5xl">
         <h1 className="font-extrabold">hi</h1>
         <h1 className="font-thin">
           my name is <span className="font-extrabold">abhishek</span>
